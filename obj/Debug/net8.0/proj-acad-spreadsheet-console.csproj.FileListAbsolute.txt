@@ -13,3 +13,13 @@ C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spread
 C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\obj\Debug\net8.0\proj-acad-spreadsheet-console.pdb
 C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\obj\Debug\net8.0\proj-acad-spreadsheet-console.genruntimeconfig.cache
 C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\obj\Debug\net8.0\ref\proj-acad-spreadsheet-console.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\obj\Debug\net8.0\proj-acad-spreadsheet-console.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\Irony.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\bin\Debug\net8.0\XLParser.dll
+C:\Users\marce\OneDrive\Área de Trabalho\sistemas distribuidos\proj-acad-spreadsheet-console\obj\Debug\net8.0\proj-aca.C6FACF6F.Up2Date

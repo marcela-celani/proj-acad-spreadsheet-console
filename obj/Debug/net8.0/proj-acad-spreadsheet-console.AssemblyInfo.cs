@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proj-acad-spreadsheet-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff589ca594584d61c3097987f7770b0804d08f37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f951d88a7ba2f8b6ef9c690b0cee9d401d1d113f")]
 [assembly: System.Reflection.AssemblyProductAttribute("proj-acad-spreadsheet-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proj-acad-spreadsheet-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
